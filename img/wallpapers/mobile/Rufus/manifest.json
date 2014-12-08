@@ -1,0 +1,47 @@
+{
+    "wallpapers": {
+        "category": [
+		    {
+                "name": "Rufus",
+                "wallpaper": [
+                    {
+                        "author": "Benas Dzimidas",
+                        "url": "http://u.cubeupload.com/benx9/1.png",
+                        "thumbUrl": "http://u.cubeupload.com/benx9/1small.png",
+                        "name": "1"
+                    },
+                    {
+                        "author": "Benas Dzimidas",
+                        "url": "http://u.cubeupload.com/benx9/2.png",
+                        "thumbUrl": "http://u.cubeupload.com/benx9/2small.png",
+                        "name": "2"
+                    },
+                    {
+                        "author": "Benas Dzimidas",
+                        "url": "http://u.cubeupload.com/benx9/3.png",
+                        "thumbUrl": "http://u.cubeupload.com/benx9/3small.png",
+                        "name": "3"
+                    },
+                    {
+                        "author": "Benas Dzimidas",
+                        "url": "http://u.cubeupload.com/benx9/4.png",
+                        "thumbUrl": "http://u.cubeupload.com/benx9/4small.png",
+                        "name": "4"
+                    },
+                    {
+                        "author": "Benas Dzimidas",
+                        "url": "http://u.cubeupload.com/benx9/5.png",
+                        "thumbUrl": "http://u.cubeupload.com/benx9/5small.png",
+                        "name": "5"
+                    },
+                    {
+                        "author": "Benas Dzimidas",
+                        "url": "http://u.cubeupload.com/benx9/6.png",
+                        "thumbUrl": "http://u.cubeupload.com/benx9/6small.png",
+                        "name": "6"
+                    }
+				]
+            }
+        ]
+    }
+}
