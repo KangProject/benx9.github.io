@@ -41,38 +41,38 @@
                 "wallpaper": [
                     {
                         "author": "Benas Dzimidas",
-                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur1.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur1_small.png",
+                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur1_small.png",
                         "name": "Blur 1"
                     },
                     {
                         "author": "Benas Dzimidas",
-                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur2.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur2_small.png",
+                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur2_small.png",
                         "name": "Blur 2"
                     },
                     {
                         "author": "Benas Dzimidas",
-                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur3.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur3_small.png",
+                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur3_small.png",
                         "name": "Blur 3"
                     },
                     {
                         "author": "Benas Dzimidas",
-                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur4.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur4_small.png",
+                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur4_small.png",
                         "name": "Blur 4"
                     },
                     {
                         "author": "Benas Dzimidas",
-                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur5.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur5_small.png",
+                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur5_small.png",
                         "name": "Blur 5"
                     },
 					{
                         "author": "Benas Dzimidas",
-                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur6.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blu/blur6_small.png",
+                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Blur/blur6_small.png",
                         "name": "Blur 6"
                     }
 				]
@@ -653,8 +653,8 @@
                     },
 					{
                         "author": "Benas Dzimidas",
-                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus//Photos/photo8.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/MPhotos/photo8_small.png",
+                        "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Photos/photo8.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Photos/photo8_small.png",
                         "name": "Photos 8"
                     }
 				]
@@ -739,7 +739,7 @@
                         "url": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Poly/Mato/matoyellow2.png",
                         "thumbUrl": "https://raw.githubusercontent.com/benx9/benx9.github.io/master/img/wallpapers/mobile/Nautilus/Poly/Mato/matoyellow2_small.png",
                         "name": "Mato Yellow 2"
-                    },
+                    }
 				]
             },
 		    {
